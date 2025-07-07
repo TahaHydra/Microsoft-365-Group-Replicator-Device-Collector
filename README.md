@@ -21,4 +21,4 @@ Your input file must be named `groups.csv` and structured like this:
 
 ```csv
 nameofgroup,name2
-Exco SAS,GRP_EXCO_SAS_HUMAIN
+NAMMEOFTHEGROUP,NAMEOFCREATEDGROUP
